@@ -32,11 +32,20 @@ on the network you want to target.
 
 <br>
 
-### Katana setup ###
+#### Katana setup ####
 - create .env file for testing using Katana with the following :
   - export RPC_STARKNET=http://0.0.0.0:5050/
   - export STARKNET_ACCOUNT=<katana-account.json>
   - export STARKNET_KEYSTORE=<kakanta-key.json>
 
+<br>
+
+#### Starkli Usage ####
+- refer to [starknet-main](https://github.com/dtan1/starknet-main) for info
+
+<br>
+
+### Contract Deployment ###
+- refer to [starknet-main](https://github.com/dtan1/starknet-main) for info
 
 
